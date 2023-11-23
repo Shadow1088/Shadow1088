@@ -1,6 +1,6 @@
-##Hello, Im Shadow1088, also known as ZZ
+## Hello, Im Shadow1088, also known as ZZ
 
-#Who am I?
+# Who am I?
 *  Im interested in becoming valuable player in cybesecurity world
 *  Experienced Python programmer
 *  Any critism or try to help is much appreciated
