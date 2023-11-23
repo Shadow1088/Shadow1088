@@ -11,7 +11,7 @@
 1. Understanding C, C++, Assembly
 2. Interested in becoming valuable player in cybesecurity world
 
-
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,c)](https://skillicons.dev)
 
