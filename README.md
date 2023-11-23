@@ -5,7 +5,7 @@
 *  Open to work by myself or with team
 *  Still a student
 *  Any critism or try to help is much appreciated
-*  You can reach me on discord ( luky0 )or through my email ( shadow1088punch@gmail.com )
+*  You can reach me on **Discord** ( **luky0** )or through my **Email** ( shadow1088punch@gmail.com )
 
 ## My goals:
 1. Understanding C, C++, Assembly
