@@ -8,8 +8,8 @@
 *  You can reach out to me on **Discord** ( **luky0** )or through my **Email** ( shadow1088punch@gmail.com )
 
 ## My goals:
-1. Understanding C, C++, Assembly
-2. Interested in becoming valuable player in **cybesecurity** world
+1. Understanding C, C++, Assembly, JS
+2. Interested in becoming valuable player in **cybersecurity** world
 
 <br>
 
