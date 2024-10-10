@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,js)](https://skillicons.dev)
 
 
 
