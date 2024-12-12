@@ -14,7 +14,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,c,js,debian,opencv,pytorch,raspberrypi,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,debian,opencv,pytorch,raspberrypi,sublime)](https://skillicons.dev)
 
 
 
