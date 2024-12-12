@@ -1,4 +1,4 @@
-# Hello, Im Shadow1088, also known as ZZ
+# Hello, Im Shadow1088, also recognized as ZZ
 
 ## Who am I?
 *  Experienced **Python** developer
